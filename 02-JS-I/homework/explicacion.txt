@@ -1,0 +1,17 @@
+Explicacion de conceptos:
+
+* Variables:
+Una variable es un espacio de memoria para guardar algo que nosotros le digamos (numeros, texto, etc) y asi poder usarlo mas tarde en el codigo. Ademas estas son dinamicas, es decir, que podremos cambiar su valor en cualquier momento del codigo. Para poder usar una variable es necesario declararla usando la palabra clave "var".
+
+* Strings:
+El tipo de dato string es un bloque de texto. Cualquier texto que este entre comillas, ya sean simples o dobles sera un string.
+
+* Funciones: (Argumentos y "return")
+Las funciones son un tipo de objeto llamados "objetos inavocables", esto quiere decir que una vez declarado pueden ser invocados en cualquier parte del codigo que se necesiten. La palabara clave para crear una funcion es "function()".
+Los argumentos se podrian decir que son las variables que ingresamos a la funcion para que esta pueda usarlo, estos se ingresan dentro de los parentesis.
+Una funcion por si misma no devuelve ningun dato sin que usemos por ejemplo "console.log" para imprimirlo en pantalla, sin embargo, podemos hacer que esos datos escapen de la funcion con "return". Con Return la funcion se detiene y devuelve lo que se pide.
+
+* Declaraciones: ("if", valores booleanos "true" or "false")
+El flujo de control es una forma de que una funcion verifique que una condicion es "true" o "false", este resultado es un booleano (verdadero o falso), de esta manera dependiendo de cual sea el caso se ejecute el codigo o no que asignemos. La palabra clave para usarlo es "if()", en los parentesis va la condicion a comparar.
+
+
