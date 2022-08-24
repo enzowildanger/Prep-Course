@@ -30,7 +30,9 @@ function sumarArray(numeros, cb) {
   //Tu código:
   
   // var total = numeros.reduce((a, b) => (a + b), 0);
-  // var total = numeros.reduce(function(a, b){ return (a + b)}, 0);
+  
+  // var total = numeros.reduce(function(a, b){
+  //  return (a + b)}, 0);
   
   var total = 0;
   for (let i = 0; i < numeros.length; i++){
